@@ -1,0 +1,808 @@
+﻿
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <title>博宝艺术家网-艺术家一站式服务平台！艺术家官网+艺术展览+艺术电子画册</title>
+    <meta name="keywords" content="博宝艺术家,艺术家官网,画家,青年画家,青年艺术家,国画家,油画家,中国美协会员,艺术展览,书画展览" />
+    <meta name="description" content="博宝艺术家网为艺术家提供宣传、推广、展览、作品销售全方位一站式服务，致力于中国青年艺术家的培养与资助。"/>
+    <link rel="stylesheet" href="http://m.artxun.com/artist/external/modules/artist/templates/wap/style/com.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="http://m.artxun.com/artist/external/modules/artist/templates/wap/style/swiper.min.css" type="text/css" media="screen" >
+    <link rel="stylesheet" href="http://m.artxun.com/artist/external/modules/artist/templates/wap/style/index.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://m.artxun.com/artist/external/modules/artist/templates/wap/style/psn.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="http://m.artxun.com/artist/external/modules/artist/templates/wap/js/jquery.js"></script>
+    <script type="text/javascript" src="http://m.artxun.com/artist/external/modules/artist/templates/wap/js/layer.js"></script>
+    <script type="text/javascript" src="http://m.artxun.com/artist/external/modules/artist/templates/wap/js/swiper.min.js"></script>
+    <script type="text/javascript" src="http://m.artxun.com/artist/external/modules/artist/templates/wap/js/jquery.cxscroll.min.js"></script>
+    <script type="text/javascript" src="http://m.artxun.com/artist/external/modules/artist/templates/wap/js/common.js"></script>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?5dc286cb2959b7b49f2f3ee9b68dd335";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <script>
+        //声明_czc对象:
+        var _czc = _czc || [];
+        //绑定siteid，请用您的siteid替换下方"XXXXXXXX"部分
+        _czc.push(["_setAccount", 1263256155]);
+    </script></head>
+<body>
+<script type="text/javascript" src="http://m.artxun.com/artist/external/modules/artist/templates/wap/js/video_common.js"></script>
+<!--20170526去掉顶部导航
+<header>
+	<a class="hd_l" href="javascript:;"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/back.png" /></a>
+    <h1>博宝艺术家</h1>
+</header>-->
+<section class="banner">
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+                                <li style="background:url(//artist.art138.com/upload/slide/2018/201801/0_1515573239.png) no-repeat center;"><a target="_blank" href="http://shuhua.yishu168.cn/jnayuf/lsfmp/gplpvs/yipin_wap_notice_gonggao?sfuid=356330&sid=356330&pid=3"></a></li>
+            <div class="swiper-slide"><a onmousedown='_czc.push(["_trackEvent", "首页-轮播图", "点击"]);' href="http://shuhua.yishu168.cn/jnayuf/lsfmp/gplpvs/yipin_wap_notice_gonggao?sfuid=356330&sid=356330&pid=3"><img src="//artist.art138.com/upload/slide/2018/201801/0_1515573239.png" class="img"></a></div>
+                        <li style="background:url(//artist.art138.com/upload/slide/2017/201711/0_1510719876.jpg) no-repeat center;"><a target="_blank" href="http://xianmx.artxun.com/"></a></li>
+            <div class="swiper-slide"><a onmousedown='_czc.push(["_trackEvent", "首页-轮播图", "点击"]);' href="http://xianmx.artxun.com/"><img src="//artist.art138.com/upload/slide/2017/201711/0_1510719876.jpg" class="img"></a></div>
+                        <li style="background:url(//artist.art138.com/upload/slide/2017/201711/0_1511496909.jpg) no-repeat center;"><a target="_blank" href="http://xianmx.artxun.com/shuicaifen/"></a></li>
+            <div class="swiper-slide"><a onmousedown='_czc.push(["_trackEvent", "首页-轮播图", "点击"]);' href="http://xianmx.artxun.com/shuicaifen/"><img src="//artist.art138.com/upload/slide/2017/201711/0_1511496909.jpg" class="img"></a></div>
+                        </div>
+    <div class="swiper-pagination"></div>
+</div>
+</section>
+<section class="news">
+<div class="in_draw" id="element_id">
+    <span class="box_l"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/toutiao.jpg" ></span>
+    <div class="box">
+        <ul class="list">
+			            <li><a onmousedown='_czc.push(["_trackEvent", "首页-艺术头条", "点击"]);' href="http://m.artxun.com/artist/liushuai/xinwen/1609916.html">刘帅人物画作品赏析 | 形象优美，描摹生动，极具童话色彩【博宝·资讯】</a></li>
+			            <li><a onmousedown='_czc.push(["_trackEvent", "首页-艺术头条", "点击"]);' href="http://m.artxun.com/artist/lixiaocheng/xinwen/1609914.html">李小成人物画作品赏析 | 童真童趣 恬淡清幽【博宝·资讯】</a></li>
+			            <li><a onmousedown='_czc.push(["_trackEvent", "首页-艺术头条", "点击"]);' href="http://m.artxun.com/artist/wangyingm/xinwen/1609912.html">王莹人物画作品赏析 | 墨韵禅心 淡而有味【博宝·资讯】</a></li>
+			        </ul>
+    </div>
+</div>
+</section>
+
+<section class="ad_list">
+    <!--<a href="http://m.artxun.com/artist/news/" onclick='_czc.push(["_trackEvent", "首页", "艺术资讯模块"]);' class="ad_list_m">
+        <img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/list01.jpg" class="img">
+        <div>艺术资讯</div><p>经典不期而遇</p>
+    </a>-->
+    <a href="http://m.artxun.com/artist/news/" onmousedown='_czc.push(["_trackEvent", "首页-艺术资讯模块", "点击"]);' class="ad_list_m">
+        <img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/list01.jpg" class="img">
+        <div>艺术资讯</div><p>经典不期而遇</p>
+    </a>
+    <a href="http://m.artxun.com/artist/list/" onmousedown='_czc.push(["_trackEvent", "首页-艺术家模块", "点击"]);' class="ad_list_m">
+        <img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/list02.jpg" class="img">
+        <div>艺术家</div><p>相逢是场缘分</p>
+    </a>
+    <a href="http://m.artxun.com/artist/zuopin/" onmousedown='_czc.push(["_trackEvent", "首页-艺术作品模块", "点击"]);' class="ad_list_m">
+        <img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/list03.jpg" class="img">
+        <div>艺术作品</div><p>邂逅一幕幕美</p>
+    </a>
+    <a href="http://m.artxun.com/artist/zhanlan/" onmousedown='_czc.push(["_trackEvent", "首页-博宝展览模块", "点击"]);' class="ad_list_m">
+        <img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/list04.jpg" class="img">
+        <div>博宝展览</div><p>欣赏饕餮盛宴</p>
+    </a>
+</section>
+
+<section class="pb_5">
+    <a href="http://m.artxun.com/artist/news/" onmousedown='_czc.push(["_trackEvent", "首页-艺术资讯列表", "点击"]);' ><div class="tit"><em class="ico"></em><i class="yszx"></i><span>艺术资讯</span></div></a>
+
+					<a href="http://m.artxun.com/artist/liushuai/xinwen/1609916.html" onmousedown='_czc.push(["_trackEvent", "首页-艺术资讯列表点击区域", "点击"]);' class="news_zx">
+			<span class="img"><img src="http://user.art138.com/news/1d6/1d6138/f99ea.jpg@500w_290h_1e_1c"></span>
+			<div class="font">
+				<h3>刘帅人物画作品赏析 | 形象优美，描摹生动，极具童话色彩【博宝·资讯】</h3>
+				<p>刘帅，1988年7月23日生于山东青岛。2008年9月-2012年6月，就读于中央美术学院，毕建勋水墨人物工作室。2013年以专业成绩第一名的成绩考取中央美术学院国画系研究生，师从毕建勋教授。2012年毕业于中央美术学院中国画学院，获学士学位。2016年毕业于中央美术学院中国画学院，获硕士学位。现为博宝艺品万家签约艺术家。</p>
+				<div class="time">2018-09-11 18:07</div>
+			</div>
+			<div class="clear"></div>
+		</a>
+							<a href="http://m.artxun.com/artist/lixiaocheng/xinwen/1609914.html" onmousedown='_czc.push(["_trackEvent", "首页-艺术资讯列表点击区域", "点击"]);' class="news_zx">
+			<span class="img"><img src="http://user.art138.com/news/edb/edbeb5/e40ea.jpg@500w_290h_1e_1c"></span>
+			<div class="font">
+				<h3>李小成人物画作品赏析 | 童真童趣 恬淡清幽【博宝·资讯】</h3>
+				<p>李小成，字越吉。1968年2月出生，山东章丘人。大学文化。中国人民解放军海军文化中心美术创作员、中国人民大学继续教育学院李小成国画创作工作室导师。中国美术家协会会员、中国书法家协会会员、中国楹联学会书法艺术委员会委员、中国侨联艺术家联合会副会长、北京国际世纪名人书画院副秘长、博宝艺品万家签约艺术家。</p>
+				<div class="time">2018-09-11 16:20</div>
+			</div>
+			<div class="clear"></div>
+		</a>
+			
+</section>
+
+<section class="rz_art">
+    <div class="tit"><!--<a href="javascript:;" class="ico"></a>--><i class="rz"></i><span>入驻艺术家</span></div>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+		            <div class="swiper-slide rz_art_list_box">
+            <a href="http://m.artxun.com/artist/zhangchaoxun/" onmousedown='_czc.push(["_trackEvent", "首页-入驻艺术家点击区域", "点击"]);' class="rz_art_list">
+                <span class="rz_art_list_l"><img src="//artist.art138.com/upload/head/2017/201711/302891_old_1511240543501.png@300w_300h_1e_1c"></span>
+                <div class="rz_art_list_r">
+                    <h3>张朝训</h3>
+                    <p></p>
+                    <h4><i class="ico"></i><span>6</span><i class="ico"></i><span>258</span></h4>
+                </div>
+            </a>
+            </div>            <div class="swiper-slide rz_art_list_box">
+            <a href="http://m.artxun.com/artist/xuwenliang/" onmousedown='_czc.push(["_trackEvent", "首页-入驻艺术家点击区域", "点击"]);' class="rz_art_list">
+                <span class="rz_art_list_l"><img src="//artist.art138.com/upload/head/2017/201711/302889_old_1511236675068.jpg@300w_300h_1e_1c"></span>
+                <div class="rz_art_list_r">
+                    <h3>徐文良</h3>
+                    <p></p>
+                    <h4><i class="ico"></i><span>4</span><i class="ico"></i><span>1946</span></h4>
+                </div>
+            </a>
+            </div>            <div class="swiper-slide rz_art_list_box">
+            <a href="http://m.artxun.com/artist/dongqiurong/" onmousedown='_czc.push(["_trackEvent", "首页-入驻艺术家点击区域", "点击"]);' class="rz_art_list">
+                <span class="rz_art_list_l"><img src="//artist.art138.com/upload/head/2017/201711/302888_old_1511234545336.jpg@300w_300h_1e_1c"></span>
+                <div class="rz_art_list_r">
+                    <h3>董秋荣</h3>
+                    <p></p>
+                    <h4><i class="ico"></i><span>5</span><i class="ico"></i><span>115</span></h4>
+                </div>
+            </a>
+            </div>        </div>
+    </div>
+</section>
+
+<section class="tj_art">
+    <a onmousedown='_czc.push(["_trackEvent", "首页-推荐艺术家列表", "点击"]);' href="http://m.artxun.com/artist/list/" ><div class="tit"><em class="ico"></em><i class="tj-ysj"></i><span>推荐艺术家</span></div></a>
+	    <div>
+        <a href="http://m.artxun.com/artist/wangxiaohuic/" onmousedown='_czc.push(["_trackEvent", "首页-推荐艺术家作品点击区域", "点击"]);'>
+            <div class="art_item">
+                <span ><div  id="artist15479" class="art_item_btn" onmousedown='no_login()'>+关注</div></span>
+                <img src="//artist.art138.com/upload/head/2017/201711/15479_old_1509612095767.jpg@300w_300h_1e_1c" class="head_user">
+                <div class="art_item_r">
+                    <h3><span>王晓辉</span>中国美术家协会会员</h3>
+                    <p><em>153</em>件作品 <em>2909</em>人关注</p>
+                </div>
+            </div>
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/production/2018/201801/4_1515651845.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/production/2018/201801/4_1515651763.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/production/2018/201801/4_1515651692.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                </div>
+            </div>
+        </a>
+    </div>
+	    <div>
+        <a href="http://m.artxun.com/artist/liukuo/" onmousedown='_czc.push(["_trackEvent", "首页-推荐艺术家作品点击区域", "点击"]);'>
+            <div class="art_item">
+                <span ><div  id="artist302008" class="art_item_btn" onmousedown='no_login()'>+关注</div></span>
+                <img src="//artist.art138.com/upload/head/2018/201803/302008_1519888126.jpg@300w_300h_1e_1c" class="head_user">
+                <div class="art_item_r">
+                    <h3><span>刘阔</span>中国人民大学哲学美学博士</h3>
+                    <p><em>7</em>件作品 <em>2581</em>人关注</p>
+                </div>
+            </div>
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/opus/2017/201704/1492656718147.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/opus/2017/201704/1492656695398.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/opus/2016/201612/1480651698287.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                </div>
+            </div>
+        </a>
+    </div>
+	    <div>
+        <a href="http://m.artxun.com/artist/likuan/" onmousedown='_czc.push(["_trackEvent", "首页-推荐艺术家作品点击区域", "点击"]);'>
+            <div class="art_item">
+                <span ><div  id="artist301063" class="art_item_btn" onmousedown='no_login()'>+关注</div></span>
+                <img src="//artist.art138.com/upload/head/2018/201802/301063_1518314310.jpg@300w_300h_1e_1c" class="head_user">
+                <div class="art_item_r">
+                    <h3><span>李宽</span></h3>
+                    <p><em>10</em>件作品 <em>2096</em>人关注</p>
+                </div>
+            </div>
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/production/2018/201802/4_1518317002.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/production/2018/201802/4_1518317013.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/production/2018/201802/4_1518317138.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                </div>
+            </div>
+        </a>
+    </div>
+	    <div>
+        <a href="http://m.artxun.com/artist/wangliangru/" onmousedown='_czc.push(["_trackEvent", "首页-推荐艺术家作品点击区域", "点击"]);'>
+            <div class="art_item">
+                <span ><div  id="artist298398" class="art_item_btn" onmousedown='no_login()'>+关注</div></span>
+                <img src="//artist.art138.com/upload/head/2017/201706/298398_old_1498031048398.png@300w_300h_1e_1c" class="head_user">
+                <div class="art_item_r">
+                    <h3><span>王亮儒</span>中央美术学院中国画学院，获硕士学位</h3>
+                    <p><em>6</em>件作品 <em>845</em>人关注</p>
+                </div>
+            </div>
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/opus/2014/201409/1410230679631.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/opus/2014/201409/1410230832805.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/opus/2014/201409/1410230899404.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                </div>
+            </div>
+        </a>
+    </div>
+	    <div>
+        <a href="http://m.artxun.com/artist/chenjingyou/" onmousedown='_czc.push(["_trackEvent", "首页-推荐艺术家作品点击区域", "点击"]);'>
+            <div class="art_item">
+                <span ><div  id="artist270770" class="art_item_btn" onmousedown='no_login()'>+关注</div></span>
+                <img src="//artist.art138.com/upload/2011/20110608/1307528330469.jpg@300w_300h_1e_1c" class="head_user">
+                <div class="art_item_r">
+                    <h3><span>陈敬友</span></h3>
+                    <p><em>30</em>件作品 <em>1813</em>人关注</p>
+                </div>
+            </div>
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/opus/2013/201303/1363667709982.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/opus/2013/201303/1363667270930.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                    <div class="swiper-slide">
+                    <div href="javascript:;" class="tj_art_list">
+                        <img src="//artist.art138.com/upload/opus/2013/201303/1363666863403.jpg@300w_300h_1e_1c"  class="tj_art_list" />
+                    </div>
+                    </div>
+                                </div>
+            </div>
+        </a>
+    </div>
+	
+
+</section>
+
+<section class="zl">
+    <a href="http://m.artxun.com/artist/zhanlan/"  onmousedown='_czc.push(["_trackEvent", "首页-推荐作品列表", "点击"]);'><div class="tit"><em class="ico"></em><i class="zl"></i><span>博宝展览</span></div></a>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+						<div class="swiper-slide">
+				<a href="http://p.artxun.com/?p=1593" onmousedown='_czc.push(["_trackEvent", "首页-博宝展览列表页点击区域", "点击"]);' onclick="to_exhibition_content(59)" class="zl_list">
+                    <div class="zl_list_imgs"><img src="//artist.art138.com/upload/exhibition/2018/201809/0_1536650091.jpg@200w_200h_1e_1c"></div>
+                    <p>09-14-09-20</p>
+                    <p class="exhibition_p">博宝美术馆</p>
+				</a>
+			</div>
+						<div class="swiper-slide">
+				<a href="http://p.artxun.com/?p=1472" onmousedown='_czc.push(["_trackEvent", "首页-博宝展览列表页点击区域", "点击"]);' onclick="to_exhibition_content(57)" class="zl_list">
+                    <div class="zl_list_imgs"><img src="//artist.art138.com/upload/exhibition/2018/201809/0_1536024789.jpg@200w_200h_1e_1c"></div>
+                    <p>09-01-09-07</p>
+                    <p class="exhibition_p">博宝美术馆</p>
+				</a>
+			</div>
+						<div class="swiper-slide">
+				<a href="http://p.artxun.com/?p=1513" onmousedown='_czc.push(["_trackEvent", "首页-博宝展览列表页点击区域", "点击"]);' onclick="to_exhibition_content(58)" class="zl_list">
+                    <div class="zl_list_imgs"><img src="//artist.art138.com/upload/exhibition/2018/201809/0_1536024809.jpg@200w_200h_1e_1c"></div>
+                    <p>08-30-09-05</p>
+                    <p class="exhibition_p">国艺空间  （北京西城区复兴门内大街49号 民族文化宫西配楼）</p>
+				</a>
+			</div>
+			        </div>
+    </div>
+</section>
+
+<section class="list">
+    <a  href="http://m.artxun.com/artist/zuopin/" onmousedown='_czc.push(["_trackEvent", "首页-推荐作品列表", "点击"]);'><div class="tit"><em class="ico"></em><i class="tj-zp"></i><span>推荐作品</span></div></a>
+    <div class="list_main">
+        <ul>
+		            <li>
+                <a href="http://m.artxun.com/artist/liangchunhong/zuopin/476818.html" onmousedown='_czc.push(["_trackEvent", "首页-推荐作品列表点击区域", "点击"]);'>
+                <div class="list_img"><img src="//artist.art138.com/upload/opus/2017/201704/1492591262140.jpg@300w_300h_1e_1c"><span ><span class="zan" id="production476818" onmousedown='no_login()'><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip.png"></span></span><span class="bg"></span></div>
+                <div class="tj_font"><em>送画册 准美协会员 梁春宏 雨歇山色</em></div>
+                <div class="tj_ico"><span class="tj_ico_name">梁春宏</span><span class="fr">379412</span></div>
+                </a>
+            </li>
+		            <li>
+                <a href="http://m.artxun.com/artist/sunpeiceng/zuopin/476804.html" onmousedown='_czc.push(["_trackEvent", "首页-推荐作品列表点击区域", "点击"]);'>
+                <div class="list_img"><img src="//artist.art138.com/upload/opus/2017/201704/1492590689034.jpg@300w_300h_1e_1c"><span ><span class="zan" id="production476804" onmousedown='no_login()'><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip.png"></span></span><span class="bg"></span></div>
+                <div class="tj_font"><em>孙培增国画猴子05</em></div>
+                <div class="tj_ico"><span class="tj_ico_name">孙培增</span><span class="fr">404402</span></div>
+                </a>
+            </li>
+		            <li>
+                <a href="http://m.artxun.com/artist/liukuo/zuopin/476099.html" onmousedown='_czc.push(["_trackEvent", "首页-推荐作品列表点击区域", "点击"]);'>
+                <div class="list_img"><img src="//artist.art138.com/upload/opus/2016/201612/1480651698287.jpg@300w_300h_1e_1c"><span ><span class="zan" id="production476099" onmousedown='no_login()'><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip.png"></span></span><span class="bg"></span></div>
+                <div class="tj_font"><em>耄耋长春</em></div>
+                <div class="tj_ico"><span class="tj_ico_name">刘阔</span><span class="fr">430978</span></div>
+                </a>
+            </li>
+		            <li>
+                <a href="http://m.artxun.com/artist/lijiang/zuopin/472067.html" onmousedown='_czc.push(["_trackEvent", "首页-推荐作品列表点击区域", "点击"]);'>
+                <div class="list_img"><img src="//artist.art138.com/upload/opus/2015/201511/1447056002554.jpg@300w_300h_1e_1c"><span ><span class="zan" id="production472067" onmousedown='no_login()'><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip.png"></span></span><span class="bg"></span></div>
+                <div class="tj_font"><em>礼佛图</em></div>
+                <div class="tj_ico"><span class="tj_ico_name">李江</span><span class="fr">329108</span></div>
+                </a>
+            </li>
+		            <li>
+                <a href="http://m.artxun.com/artist/liushuai/zuopin/476716.html" onmousedown='_czc.push(["_trackEvent", "首页-推荐作品列表点击区域", "点击"]);'>
+                <div class="list_img"><img src="//artist.art138.com/upload/opus/2017/201704/1492585093489.jpg@300w_300h_1e_1c"><span ><span class="zan" id="production476716" onmousedown='no_login()'><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip.png"></span></span><span class="bg"></span></div>
+                <div class="tj_font"><em>刘帅人物-午后倦读</em></div>
+                <div class="tj_ico"><span class="tj_ico_name">刘帅</span><span class="fr">320864</span></div>
+                </a>
+            </li>
+		            <li>
+                <a href="http://m.artxun.com/artist/diaozheng/zuopin/476596.html" onmousedown='_czc.push(["_trackEvent", "首页-推荐作品列表点击区域", "点击"]);'>
+                <div class="list_img"><img src="//artist.art138.com/upload/opus/2017/201703/1490262149905.jpg@300w_300h_1e_1c"><span ><span class="zan" id="production476596" onmousedown='no_login()'><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip.png"></span></span><span class="bg"></span></div>
+                <div class="tj_font"><em>春酣</em></div>
+                <div class="tj_ico"><span class="tj_ico_name">赵钲</span><span class="fr">375881</span></div>
+                </a>
+            </li>
+		        </ul>
+    <div class="clear"></div>
+    </div>
+</section>
+
+
+
+
+
+<!--<div class="loading"><span class="loading_img"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/loading.gif" /></span><span>加载更多…</span></div>-->
+<div class="return-top"><a href="javascript:;"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/top_ico.png" /></a></div>
+<div class="HF"></div>
+
+<!--
+<footer>
+    <ul class="footer-nav">
+        <li onmousedown='_czc.push(["_trackEvent", "底部导航—首页", "点击"]);' class="home" ><a href="http://m.artxun.com/artist/"  class="cur"><i></i><span>首页</span></a></li>
+        <li onmousedown='_czc.push(["_trackEvent", "底部导航—艺术家", "点击"]);' class="art"  id="artist"><a href="http://m.artxun.com/artist/list/" ><i></i><span>艺术家</span></a></li>
+        <li onmousedown='_czc.push(["_trackEvent", "底部导航—作品", "点击"]);' class="goods"  id="production"><a href="http://m.artxun.com/artist/zuopin/" ><i></i><span>作品</span></a></li>
+        <li onmousedown='_czc.push(["_trackEvent", "底部导航—我的", "点击"]);' class="my"  id="my"><a href="http://m.artxun.com/artist/ucenter.html" ><i></i><span>我</span></a></li>
+    </ul>
+</footer>-->
+<footer>
+    <ul class="footer-nav">
+        <li onmousedown='_czc.push(["_trackEvent", "底部导航—首页", "点击"]);' class="home" ><a href="http://m.artxun.com/artist/"  class="cur"><i></i><span>首页</span></a></li>
+        <li onmousedown='_czc.push(["_trackEvent", "底部导航—艺术家", "点击"]);' class="art"  id="artist"><a href="http://m.artxun.com/artist/list/" ><i></i><span>艺术家</span></a></li>
+        <li onmousedown='_czc.push(["_trackEvent", "底部导航—作品", "点击"]);' class="goods"  id="production"><a href="http://m.artxun.com/artist/zuopin/" ><i></i><span>作品</span></a></li>
+        <li onmousedown='_czc.push(["_trackEvent", "底部导航—我的", "点击"]);' class="my"  id="my"><a href="http://m.artxun.com/artist/ucenter.html" ><i></i><span>我</span></a></li>
+    </ul>
+</footer>
+
+
+<script type="text/javascript">
+/*
+	$("#home").click(function(){
+
+		location.href='http://m.artxun.com/artist//index.php?module=artist&act=index';
+	});
+	$("#artist").click(function(){
+
+		location.href='http://m.artxun.com/artist//index.php?module=artist&act=artistinfo&op=list';
+	});
+	$("#production").click(function(){
+
+		location.href='http://m.artxun.com/artist//index.php?module=artist&act=production&op=list';
+	});
+	$("#my").click(function(){
+
+        /!*layer.open({
+            content: '对不起，此功能暂缓开通',
+            btn: ['知道了']
+        })*!/
+		location.href='http://m.artxun.com/artist//index.php?module=artist&act=ucenter';
+	});*/
+</script><a href="http://m.artxun.com/artist/search.html" class="index_search" id="search" onmousedown='_czc.push(["_trackEvent", "首页-搜索按钮", "搜索"]);'><span></span></a>
+<script type="text/javascript">
+$(".zl_list .exhibition_p").each(function(){
+    var maxwidth=5;
+    if($(this).text().length>maxwidth){
+        $(this).text($(this).text().substring(0,maxwidth));
+        $(this).html($(this).html()+'…');
+    }
+});
+$(".rz_art_list_r h3,.rz_art_list_r p").each(function(){
+    var maxwidth=8;
+    if($(this).text().length>maxwidth){
+        $(this).text($(this).text().substring(0,maxwidth));
+        $(this).html($(this).html()+'…');
+    }
+});
+    /*$(function () {
+      var isPageHide = false;
+      window.addEventListener('pageshow', function () {
+        if (isPageHide) {
+          window.location.reload();
+        }
+      });
+      window.addEventListener('pagehide', function () {
+        isPageHide = true;
+      });
+    })*/
+$(document).ready(function() {
+	var swiper = new Swiper('.banner .swiper-container', {
+		pagination:'.swiper-pagination',
+		paginationClickable: true,
+		spaceBetween: 0,
+		loop : true,
+		centeredSlides: true,
+		autoplay: 4000,
+		autoplayDisableOnInteraction: false,
+	});
+	var swiper = new Swiper('.tj_art .swiper-container', {
+		slidesPerView: 2.6,
+		spaceBetween:0
+	});
+	var swiper = new Swiper('.zl .swiper-container', {
+		slidesPerView: 2.6,
+		spaceBetween:0
+	});
+	var swiper = new Swiper('.rz_art .swiper-container', {
+		slidesPerView: 1.6,
+		spaceBetween:0
+	});
+	//Scroll
+
+
+	$('#element_id').cxScroll({
+		direction: 'bottom',
+		speed: 500,
+		time: 1800,
+		plus: false,
+		minus: false
+	});
+
+	window.onpageshow = function (e) {
+        if (e.persisted) {
+            window.location.reload();
+        }
+    }
+
+
+    //检查视频url
+    check_videourl();
+
+});
+
+
+//视频播放
+$(".video_img").click(function(){
+    id_name=$(this)[0].id;
+    id_name=id_name.replace("video_img","",$(this)[0].id);
+    if(id_name){
+        $(".img_gif").hide();
+        $(".img_png").show();
+        $("#png"+id_name).hide();
+        $("#gif"+id_name).show();
+        document.getElementById("player"+id_name).play();
+
+        //视频播放事件，用于统计播放量
+        video_play(id_name);
+        /*$("#video_img"+id_name).hide();
+         $("#video_div"+id_name).show();*/
+    }
+});
+
+/*视频播放后全屏*/
+$('.h5_video').bind('play', function(){
+    //ios就不强制全屏了
+    if("ios"=='ios'){
+        return;
+    }
+    /*
+    //后边的操作是我找的js代码，没仔细看
+    launchFullscreen(document.getElementById("player"+id_name));*/
+
+    window.setTimeout(function exit(){
+
+        launchFullscreen(document.getElementById("player"+id_name));
+/*
+//檢查瀏覽器是否處於全屏
+
+        if(invokeFieldOrMethod(document,'FullScreen') || invokeFieldOrMethod(document,'IsFullScreen') || document.IsFullScreen)
+
+        {
+            exitFullscreen();
+
+        }*/
+
+    },1*1000);
+});
+
+ /*视频暂停*/
+$('.h5_video').bind('pause', function(){
+        $(".img_gif").hide();
+        $(".img_png").show();
+});
+
+function to_artistinfo(artist_spell){
+    location.href='http://'+artist_spell+'.m.artxun.com/';
+
+}
+
+//视频播放事件，用于统计播放量
+function video_play(id_name){
+    $.ajax({
+        url : 'index.php?module=artist&act=artistinfo&op=video_click',
+        type : 'post',
+        data: "video_id="+id_name,
+        datetype : 'jsonp'
+    });
+}
+
+function to_exhibition_content(id){
+    $.ajax({
+        url: "http://m.artxun.com/artist//index.php?module=artist&act=exhibition&op=content",
+        type: "post",
+        data: "id="+id,
+        dataType: "json",
+        success: function (msg) {
+        }
+    });
+}
+
+	$(".return-top").click(function(){
+		$("html,body").animate(
+			{"scrollTop":0},400);
+	});
+</script>
+<script>
+//收藏
+function to_collect(obj,id,type,class_name,show_type){
+	var now_class_name="'"+$("#"+obj)[0].className+"'";
+	show_type1="'"+show_type+"'";
+	if(emptyempty(obj) ||emptyempty(id) || emptyempty(type)){
+		return false;
+	}
+	$.ajax({
+		url: "http://m.artxun.com/artist//index.php?module=artist&act=ucenter&op=collect",
+		type: "post",
+		data : "id="+id+"&type="+type,
+		dataType : "json",
+		async: false,
+		success: function(data){
+			if(data.state == 1){
+				if(show_type=='artist_list' || show_type=='artist_info'){
+					$("#"+obj).parent().html('<div href="javascript:;" onmousedown="cancel_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'">已关注</div>');
+				}else if(show_type=='production_list' ||  show_type=='albums_list' ||  show_type=='news_list'){
+					$("#"+obj).parent().html('<span onmousedown="cancel_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip_y.png"></span>');  
+				}else if(show_type=='exhibition_list'){
+                    $("#"+obj).parent().html('<div href="javascript:;"  class="'+class_name+'" onmousedown="cancel_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip_y.png"></div>');
+                }else if(show_type=='production_content' || show_type=='news_content' || show_type=='exhibition_content'){
+                    $("#"+obj).parent().html('<a href="javascript:;"  class="'+class_name+'" onmousedown="cancel_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip_y.png"></a>');
+                }else if(show_type=='artist_list_search'){
+                    $("#"+obj).parent().html('<span onmousedown="cancel_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'">已关注</span>');
+                }else{
+					return;
+				}
+				//$("#"+obj).parent().prepend(newRow);
+				//$("#"+obj).remove(); 
+			}else{
+				layer.open({
+					content: '关注失败，请刷新页面重试',		
+					btn: ['知道了']
+				});
+			}
+		}
+	});
+	//event.stopPropagation();
+}
+
+//取消收藏
+function cancel_collect(obj,id,type,class_name,show_type){
+	var now_class_name="'"+$("#"+obj)[0].className+"'";
+	var show_type1="'"+show_type+"'";
+	if(emptyempty(obj) ||emptyempty(id) || emptyempty(type)){
+		return false;
+	}
+	if(type==1){
+		$mark='关注';
+	}else if(type==2 || type==5 || type==3 || type==4){
+		$mark='收藏';
+	}
+	layer.open({
+		content: '您确定要取消'+$mark+'吗？',	
+		btn: ['确定','取消'],
+		yes:function(index){
+			layer.close(index);	
+			$.ajax({
+				url: "http://m.artxun.com/artist//index.php?module=artist&act=ucenter&op=cancel_collect",
+				type: "post",
+				data : "id="+id+"&type="+type,
+				dataType : "json",
+				async: false,
+				success: function(data){
+					if(data.state == 1){
+						if(show_type=='artist_list' || show_type=='artist_info'){
+							$("#"+obj).parent().html('<div href="javascript:;" onmousedown="to_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'">+关注</div>');
+						}else if(show_type=='production_list' ||  show_type=='albums_list' ||  show_type=='news_list'){
+
+							$("#"+obj).parent().html('<span onmousedown="to_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip.png"></span>');  
+						}else if(show_type=='exhibition_list'){
+                            $("#"+obj).parent().html('<div href="javascript:;"  class="'+class_name+'" onmousedown="to_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip.png"></div>');
+                        }else if(show_type=='production_content' || show_type=='news_content' || show_type=='exhibition_content'){
+                            $("#"+obj).parent().html('<a href="javascript:;"  class="'+class_name+'" onmousedown="to_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'"><img src="http://m.artxun.com/artist/external/modules/artist/templates/wap/images/tip.png"></a>');
+                        }else if(show_type=='artist_list_search'){
+
+                            $("#"+obj).parent().html('<span onmousedown="to_collect(this.id,'+id+','+type+','+now_class_name+','+show_type1+')" id="'+obj+'" class="'+class_name+'">+关注</span>');
+                        }else{
+							return;
+						}
+						//$("#"+obj).parent().prepend(newRow);
+						//$("#"+obj).remove(); 
+					}else{
+						layer.open({
+							content: '取消失败，请刷新页面重试',		
+							btn: ['知道了']
+						});
+					}
+				}
+			});
+		}
+	});
+}
+function no_login(){
+	layer.open({
+		content: '请先登录',		
+		btn: ['登录','取消'],
+		yes:function(){	
+			location.href='http://m.artxun.com/artist/login.html';
+		}
+	});
+    /*layer.open({
+        content: '对不起，此功能暂缓开通',
+        btn: ['知道了']
+    })*/
+}
+
+</script><script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+<script type="text/javascript" src="http://m.artxun.com/artist/external/modules/artist/templates/wap/js/wx.js"></script>
+<script>
+//setShareJs('"onMenuShareTimeline","onMenuShareAppMessage","onMenuShareQQ","onMenuShareQZone"','http://m.artxun.com/artist//index.php?module=artist&act=tool&op=jsjdk');
+wx.ready(function () {
+	wx.showOptionMenu();//显示右上角菜单接口
+	//wx.hideOptionMenu(); 
+	
+	//分享到朋友圈
+	wx.onMenuShareTimeline({
+		title:"博宝艺术家网",
+		link: "http://m.artxun.com/artist/?sfuid=0",
+		imgUrl: "http://m.artxun.com/artist//external/modules/artist/templates/wap/images/no_head.jpg",
+		trigger: function (res) {
+			 //alert('用户点击发送到朋友圈');
+		},
+		success: function (){
+			share_count(1,1);
+		},
+		cancel: function () {
+			share_count(2,1);
+		},
+		fail: function (res) {
+			share_count(3,1);
+		}
+	});	
+	  
+	  
+	//分享给朋友
+	wx.onMenuShareAppMessage({
+		title:"博宝艺术家网",
+		desc: "博宝艺术网艺术家的沃土，艺术品电商领导品牌。",
+		link: "http://m.artxun.com/artist/?sfuid=0",
+		imgUrl: "http://m.artxun.com/artist//external/modules/artist/templates/wap/images/no_head.jpg",
+		trigger: function (res) {
+			 //layer_alert('用户点击发送给朋友');
+		},
+		success: function (res) {
+			share_count(1,2);
+		}
+	});
+
+	//分享到QQ
+	wx.onMenuShareQQ({
+		title:"博宝艺术家网",
+		desc: "博宝艺术网艺术家的沃土，艺术品电商领导品牌。",
+		link: "http://m.artxun.com/artist/?sfuid=0",
+		imgUrl: "http://m.artxun.com/artist//external/modules/artist/templates/wap/images/no_head.jpg",
+		success: function (){
+			share_count(1,3);
+		}
+	});
+	
+	//分享到QQ空间
+	wx.onMenuShareQZone({
+		title:"博宝艺术家网",
+		desc: "博宝艺术网艺术家的沃土，艺术品电商领导品牌。",
+		link: "http://m.artxun.com/artist/?sfuid=0",
+		imgUrl: "http://m.artxun.com/artist//external/modules/artist/templates/wap/images/no_head.jpg",
+		success: function (){
+			share_count(1,4);
+		}
+	});	  
+});
+function share_count(status,to)
+{
+		var yswimg = new Image,
+		shareid = 0,
+		uid = "",
+		host = 'http://m.artxun.com/artist//index.php?module=artist&act=tool&op=share',//统计地址
+		url = window.location,//当前页面url
+		act = "index",
+		op = "";
+		if(act=='production'){
+			shareid="";
+		}else if(act=='artistinfo'){
+			if(op=='photo_list'){
+				shareid="";
+			}else{
+				shareid="";
+			}
+		}else if(act=='news'){
+			shareid="";
+		}else if(act=='exhibition'){
+			shareid="";
+		}
+		yswimg.src = host + '&shareid='+shareid+'&uid='+uid+'&s_act='+act+'&s_op='+op+'&status='+status+'&to='+to;
+}
+</script><script>
+window.onscroll=function(){ 
+	var scrollTop = $(this).scrollTop();
+	var windowHeight = $(this).height();
+	
+	if(scrollTop>windowHeight){	
+		$(".return-top").show();
+	}else{
+		$(".return-top").hide();
+	}
+} 
+</script><div style="display:none;">
+	<script src="https://s22.cnzz.com/z_stat.php?id=1263256155&web_id=1263256155" language="JavaScript"></script>
+</div>
+</body>
+</html>
