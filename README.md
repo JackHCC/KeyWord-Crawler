@@ -27,7 +27,7 @@ def spiderPic(html, keyword):       #html：网页；keyword：关键词
         fq.close()
 ```
 
-###主函数
+### 主函数
 ```
 if __name__ == '__main__':
     word = input('请输入你要搜索的图片关键字：')
@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
 ```
 
-###存放图片文件夹创建
+### 存放图片文件夹创建
 加入判断是否存在该文件目录
 ```
 path='E:\\img\\';
@@ -63,5 +63,8 @@ else:
 spiderPic(result.text, word)
 ```
 
-###数据展示
+### 数据展示
 我们在输入提示后输入关键词 “风景”并开始爬取图片
+![展示](/1.png)
+
+爬取的图片在img文件夹中
